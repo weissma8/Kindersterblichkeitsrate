@@ -2,7 +2,7 @@
 
 ## Team
 Am Projekt arbeiten:
-- Marie Weiss ((weissma8@students.zhaw.ch))
+- Marie Weiss (weissma8@students.zhaw.ch)
 - Nicole Merola (merolnic@students.zhaw.ch)
 
 ## Projektidee
